@@ -3,20 +3,20 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "35cb60215303c95e94c03bcb1f051be3",
+    "hash": "f452b51de73b3d3aca736e81b6f7361f",
     "packages": [
         {
             "name": "hearstuk/zf1-component-cache",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/joegreen88/zf1-component-cache.git",
-                "reference": "c86f3dfacc74ac4aa6ac2069e2a68495d72b3779"
+                "reference": "1802b57ff4d2e58e2c1f606c2de067dd16810131"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/joegreen88/zf1-component-cache/zipball/c86f3dfacc74ac4aa6ac2069e2a68495d72b3779",
-                "reference": "c86f3dfacc74ac4aa6ac2069e2a68495d72b3779",
+                "url": "https://api.github.com/repos/joegreen88/zf1-component-cache/zipball/1802b57ff4d2e58e2c1f606c2de067dd16810131",
+                "reference": "1802b57ff4d2e58e2c1f606c2de067dd16810131",
                 "shasum": ""
             },
             "require": {
@@ -37,6 +37,9 @@
                 }
             },
             "notification-url": "http://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
             "authors": [
                 {
                     "name": "Joe Green",
@@ -45,7 +48,7 @@
             ],
             "description": "The Zend_Cache component from Zend Framework 1.12 abstracted out for use with composer.",
             "homepage": "http://github.com/joegreen88/zf1-component-cache",
-            "time": "2013-09-18 10:04:24"
+            "time": "2013-09-18 15:32:38"
         },
         {
             "name": "hearstuk/zf1-components-base",
