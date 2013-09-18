@@ -1,7 +1,7 @@
 <?php
-namespace Tests\Zend\Validate;
+namespace Tests\Zend\Locale;
 
-class AclTest extends \Tests\TestCase
+class LocaleTest extends \Tests\TestCase
 {
     protected $classes = array(
         '\Zend_Locale',
